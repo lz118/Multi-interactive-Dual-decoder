@@ -13,17 +13,22 @@ The pytorch implementation of Multi-interactive Siamese Decoder for RGBT Salient
 
 ## Test
 
-- We provide the 
+- The trained models on RGB-T Dataset 
 
+  https://pan.baidu.com/s/1Wj6bfi7lhp1KF5iCSVj0gQ [4zkx]
 
+- The trained models on RGB-D Dataset 
 
-For RGB-T SOD, we provide the our saliency maps on VT821, VT1000 and VT5000-Test. 
+  https://pan.baidu.com/s/1KlAKrVszQisG0bK1kiedzA [2ulc]
 
-https://pan.baidu.com/s/1MiqnoPOcw_sHkB0Yoo7IJQ  [5mnk]
+## Evalution
 
+- For RGB-T SOD, we provide the our saliency maps on VT821, VT1000 and VT5000-Test. 
 
+   https://pan.baidu.com/s/1MiqnoPOcw_sHkB0Yoo7IJQ  [5mnk]
 
-For RGB-D SOD, we provide the our saliency maps on SIP, SSD，STERE，LFSD and DES. 
+- For RGB-D SOD, we provide the our saliency maps on SIP, SSD，STERE，LFSD and DES. 
 
-https://pan.baidu.com/s/1ZHxvMh818RxlZGW1hQA70w  [2oqx]
+  https://pan.baidu.com/s/1ZHxvMh818RxlZGW1hQA70w  [2oqx]
 
+- The evalution toolbox is provided by https://github.com/jiwei0921/Saliency-Evaluation-Toolbox
