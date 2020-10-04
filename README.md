@@ -7,8 +7,7 @@ The pytorch implementation of Multi-interactive Siamese Decoder for RGBT Salient
 ## Train
 
 - We use VT5000-Train to train our network. All the datasets are available in https://github.com/lz118/RGBT-Salient-Object-Detection
-- The pretrained  model (VGG16) can be downloaded at https://pan.baidu.com/s/1GHX_-vMO9Po2s4TiDsRLGQ [nxdy]
-
+- The pretrained  model (VGG16) can be downloaded at https://pan.baidu.com/s/11lq3mUGRFP7TFvH9Eui14A [3513]
 
 
 ## Test
