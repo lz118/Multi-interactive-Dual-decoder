@@ -15,10 +15,12 @@ The pytorch implementation of Multi-interactive Siamese Decoder for RGBT Salient
 - The trained models on RGB-T Dataset 
 
   https://pan.baidu.com/s/1Wj6bfi7lhp1KF5iCSVj0gQ [4zkx]
+  https://drive.google.com/file/d/11lU5TaRZMTXQ6QCbBLinG9iDvIUDrRP5/view?usp=sharing
 
 - The trained models on RGB-D Dataset 
 
   https://pan.baidu.com/s/1KlAKrVszQisG0bK1kiedzA [2ulc]
+  https://drive.google.com/file/d/1LKVn3iPDBI07DUBiirm4bk2-7yA3pTSM/view?usp=sharing
 
 ## Evalution
 
