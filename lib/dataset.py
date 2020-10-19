@@ -10,10 +10,10 @@ except:
     import transform
 from torch.utils.data import Dataset
 #BGR
-mean_rgb = np.array([[[0.551*255, 0.619*255, 0.532*255]]])
-mean_t =np.array([[[0.341*255,  0.360*255, 0.753*255]]])
-std_rgb = np.array([[[0.241 * 255, 0.236 * 255, 0.244 * 255]]])
-std_t = np.array([[[0.208 * 255, 0.269 * 255, 0.241 * 255]]])
+mean_rgb = np.array([[[0.551, 0.619, 0.532]]])*255
+mean_t =np.array([[[0.341,  0.360, 0.753]]])*255
+std_rgb = np.array([[[0.241, 0.236, 0.244]]])*255
+std_t = np.array([[[0.208, 0.269, 0.241]]])*255
 
 def getRandomSample(rgb,t):
     n = np.random.randint(10)
