@@ -29,7 +29,8 @@ https://arxiv.org/pdf/2005.02315v2.pdf
 
 - For RGB-T SOD, we provide the our saliency maps on VT821, VT1000 and VT5000-Test. 
 
-  https://pan.baidu.com/s/1lx8ryRVy5rJFRC4PeMcqwA  [uyzu] 
+  https://pan.baidu.com/s/1hEZJyEJ2j1n1JKUgUaZZLQ  [0div]
+
 
 - For RGB-D SOD, we provide the our saliency maps on SIP, SSD，STERE，LFSD and DES. 
 
