@@ -1,7 +1,6 @@
 # Multi-interactive-Dual-decoder-for-RGBT-Salient-Object-Detection
 
 The pytorch implementation of Multi-interactive Dual-decoder for RGBT Salient Object Detection
-https://arxiv.org/pdf/2005.02315v2.pdf
 
 ![framework](./fig/framework.png)
 
