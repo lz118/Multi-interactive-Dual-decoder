@@ -3,6 +3,7 @@
 The pytorch implementation of Multi-interactive Dual-decoder for RGBT Salient Object Detection
 
 ![framework](./fig/framework.png)
+![framework](./fig/pr_f.png)
 
 ## Train
 
