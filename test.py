@@ -22,11 +22,12 @@ if __name__ == '__main__':
     net.eval()
     with torch.no_grad():
         for rgb, t, _ , (H, W), name in loader:
-            print(name[0])
+            name = name[0].split('\\')[-1]
+            print(name)
             score, score1, score2,score_g = net(rgb.cuda().float(), t.cuda().float())
             score = F.interpolate(score, size=(H, W), mode='bilinear',align_corners=True)
             pred = np.squeeze(torch.sigmoid(score).cpu().data.numpy())
-            cv2.imwrite(os.path.join(out_path, name[0][:-4] + '.png'), 255 * pred)
+            cv2.imwrite(os.path.join(out_path, name[:-4] + '.png'), 255 * pred)
     time_e = time.time()
     print('speed: %f FPS' % (img_num / (time_e - time_s)))
 
