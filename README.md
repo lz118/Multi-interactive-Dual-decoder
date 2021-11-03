@@ -31,6 +31,8 @@ The pytorch implementation of Multi-interactive Dual-decoder for RGBT Salient Ob
 
   https://pan.baidu.com/s/1hEZJyEJ2j1n1JKUgUaZZLQ  [0div]
 
+- The saliency maps of all compared methods on VT821, VT1000 and VT5000-Test.
+  https://pan.baidu.com/s/1s_pJ5qNJcQ8Q7ucusZHnRg [ax96] 
 
 - For RGB-D SOD, we provide the our saliency maps on SIP, SSD，STERE，LFSD and DES. 
 
